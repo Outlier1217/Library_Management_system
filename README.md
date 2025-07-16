@@ -36,7 +36,7 @@ Purpose
 The Library Management System aims to simplify library operations by providing an efficient seat booking and credit management solution. It ensures a smooth experience for users while giving administrators full control over system operations.
 Installation
 
-Clone the repository: git clone https://github.com/yourusername/library-management-system.git
+
 Set up a local server (e.g., XAMPP, WAMP) with PHP and MySQL.
 Import the provided SQL file to set up the database.
 Configure the database connection in the PHP configuration file.
